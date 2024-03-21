@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "fcebf48b7c9a8afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c580c585399112a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3945415283fb608",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "viewState": {
+                  "x": -525.5677852864375,
+                  "y": -516.7815982396376,
+                  "zoom": -0.8000000000000006
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cc1150fb3b91f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fae4e90e2fec1d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68088fe677875b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2f9706aa02e2d0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c12ef89858adfe1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "def48bf833e8a84e",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f4d0c57f5ee5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "803a54856064dfdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "767523cb4354553f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33bb30735dea2f59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50367a4dddb97747",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "d3945415283fb608",
+  "lastOpenFiles": [
+    "Pasted image 20240321134505.png",
+    "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+    "Learnings/Farzi/Canvas",
+    "Untitled",
+    "Learnings/Farzi",
+    "Untitled 1.canvas",
+    "create a link.md",
+    "Second Brain.md",
+    "Learnings/Frontend",
+    "Learnings/Frontend",
+    "Learnings",
+    "Second Brain.canvas",
+    "Welcome.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}
