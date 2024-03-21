@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
                 "viewState": {
-                  "x": -525.5677852864375,
-                  "y": -516.7815982396376,
-                  "zoom": -0.8000000000000006
+                  "x": -454.5223503843041,
+                  "y": -629.021693150667,
+                  "zoom": -0.4254842867139599
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas"
+                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas"
               }
             }
           }
