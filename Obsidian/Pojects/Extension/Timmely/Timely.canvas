@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"241642f5cf85dce2","type":"text","text":"","x":-180,"y":620,"width":250,"height":60},
+		{"id":"85329c25e1cf3b59","type":"text","text":"TIMMELY","x":-196,"y":315,"width":141,"height":50},
+		{"id":"f7d22a96e487e8d2","type":"text","text":"Timmely is a project that helps people convert timezones while writing or messaging someone in a different timezone.","x":-600,"y":266,"width":314,"height":149},
+		{"id":"cc56445bda9351cc","x":82,"y":78,"width":258,"height":287,"type":"text","text":"1. manifest file\n2. Other js file\n3. other css file"}
+	],
+	"edges":[
+		{"id":"27e965ffb7e3a1dc","fromNode":"85329c25e1cf3b59","fromSide":"left","toNode":"f7d22a96e487e8d2","toSide":"right"},
+		{"id":"f8fa2ba46df905ea","fromNode":"85329c25e1cf3b59","fromSide":"right","toNode":"cc56445bda9351cc","toSide":"left"}
+	]
+}

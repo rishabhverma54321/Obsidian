@@ -11,7 +11,9 @@
 		{"id":"b04ffa2349cc85f5","type":"text","text":"[{\"questions\":[]},{\"questions\":[]},{\"questions\":[]}]","x":-301,"y":-575,"width":446,"height":50},
 		{"id":"4e2a6151931e84b9","type":"text","text":"[{\"questions\":[]},{\"questions\":[]},{\"questions\":[]}]","x":-304,"y":-735,"width":444,"height":50},
 		{"id":"f46b802cff707361","type":"text","text":"[{\"questions\":[]},{\"questions\":[]},{\"questions\":[]}]","x":-304,"y":-235,"width":464,"height":50},
-		{"id":"4fa076b2fd21bd09","type":"text","text":"Dull Quiz","x":-640,"y":-240,"width":250,"height":60}
+		{"id":"4fa076b2fd21bd09","type":"text","text":"Dull Quiz","x":-640,"y":-240,"width":250,"height":60},
+		{"id":"c761986b28f62498","type":"text","text":"QuizTrack = {filledQuestion: [], currentPage: 0};\n\ncurrpage - 5 \nnextpage - 5\n\nfilledQuestion = [{question:id, answer: ans,},{question:id, answer:ans}]\n\nfilledQuestion : {question1:{questionid:id,answer:ans,\nquestion2:{questionid:id,answer:ans},\nquestion3:{questionid:id,answer:ans}}\n\nquestion1?.answer || \"\";\n","x":-1440,"y":240,"width":437,"height":358},
+		{"id":"38733845e71cef7d","type":"text","text":"// Set data on page refresh\n\n quizQuestionValues = {\n  question11:\"\",\n  question12:\"\"}\n\nquizQuestions = [{quesiton1, question2},{question1, question2}]\n\nquiztrackstate = {\nfilledQuestion:{},\n\n}","x":-1440,"y":760,"width":437,"height":358}
 	],
 	"edges":[
 		{"id":"a940cb4a88b316c2","fromNode":"7c48eea482b32fb2","fromSide":"right","toNode":"917fdf13d68ab178","toSide":"left"},
@@ -23,6 +25,7 @@
 		{"id":"46ebdab1ba918d1c","fromNode":"917fdf13d68ab178","fromSide":"right","toNode":"4e2a6151931e84b9","toSide":"left"},
 		{"id":"367b34a397542af3","fromNode":"6270915b338fcc77","fromSide":"right","toNode":"b04ffa2349cc85f5","toSide":"left"},
 		{"id":"3fba0491870f060c","fromNode":"4fa076b2fd21bd09","fromSide":"right","toNode":"f46b802cff707361","toSide":"left"},
-		{"id":"962d454e784f8467","fromNode":"0816ddef3f5bd30b","fromSide":"right","toNode":"acc1f9a1b14dfb26","toSide":"left"}
+		{"id":"962d454e784f8467","fromNode":"0816ddef3f5bd30b","fromSide":"right","toNode":"acc1f9a1b14dfb26","toSide":"left"},
+		{"id":"9dced18aa5effed2","fromNode":"c761986b28f62498","fromSide":"bottom","toNode":"38733845e71cef7d","toSide":"top"}
 	]
 }

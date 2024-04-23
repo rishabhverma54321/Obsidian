@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"87279a87dd159ab4","type":"text","text":"## ==**GeoGusser**== \n\n## ==**REACT NATIVE**==","x":-920,"y":-80,"width":220,"height":140,"color":"2"},
+		{"id":"fe124c789bf37fd6","type":"text","text":"2. Map (use leaflet)","x":179,"y":-48,"width":250,"height":60},
+		{"id":"7e579fafb37fe9b5","type":"text","text":"1. Google map street view","x":179,"y":-240,"width":281,"height":60},
+		{"id":"eed7cb2bbbe726d9","type":"text","text":"**Third-party** \n\n1. Google Map api ","x":-560,"y":-159,"width":220,"height":298},
+		{"id":"2459f3871bbd1ed0","type":"text","text":"Game feature","x":-260,"y":-40,"width":250,"height":60},
+		{"id":"cae8c54b32e52bed","type":"text","text":"3. calculation of guess value (Handled by above leaflet library)","x":179,"y":139,"width":361,"height":101,"color":"1"},
+		{"id":"747a0d4a660a5d40","type":"text","text":"Map categories","x":560,"y":-240,"width":250,"height":60},
+		{"id":"f8aaa43c0341d5e8","type":"text","text":"Capital cities ","x":960,"y":-240,"width":250,"height":60},
+		{"id":"52ac6ce5d8faa514","type":"text","text":"Famous places","x":960,"y":-108,"width":250,"height":60},
+		{"id":"9d849f7ef9fb73ad","type":"text","text":"Standard","x":960,"y":-380,"width":250,"height":60},
+		{"id":"8ec8a73e6f810b25","type":"text","text":"###### Other categories where u can select puzzle country wise","x":963,"y":15,"width":277,"height":105,"color":"5"}
+	],
+	"edges":[
+		{"id":"b6f3e73248504a64","fromNode":"87279a87dd159ab4","fromSide":"right","toNode":"eed7cb2bbbe726d9","toSide":"left"},
+		{"id":"3c088547e1bc09ca","fromNode":"2459f3871bbd1ed0","fromSide":"right","toNode":"fe124c789bf37fd6","toSide":"left"},
+		{"id":"6b1a853189cc2408","fromNode":"2459f3871bbd1ed0","fromSide":"right","toNode":"7e579fafb37fe9b5","toSide":"left"},
+		{"id":"aa1f62cefe62856e","fromNode":"2459f3871bbd1ed0","fromSide":"right","toNode":"cae8c54b32e52bed","toSide":"left"},
+		{"id":"62418bdb6b158d7f","fromNode":"7e579fafb37fe9b5","fromSide":"right","toNode":"747a0d4a660a5d40","toSide":"left"},
+		{"id":"c4266380b462efb6","fromNode":"747a0d4a660a5d40","fromSide":"right","toNode":"9d849f7ef9fb73ad","toSide":"left"},
+		{"id":"0852a3d2ff8f858b","fromNode":"747a0d4a660a5d40","fromSide":"right","toNode":"f8aaa43c0341d5e8","toSide":"left"},
+		{"id":"6edfcdc37a501cfa","fromNode":"747a0d4a660a5d40","fromSide":"right","toNode":"52ac6ce5d8faa514","toSide":"left"},
+		{"id":"92a5f1fee155e636","fromNode":"747a0d4a660a5d40","fromSide":"right","toNode":"8ec8a73e6f810b25","toSide":"left"}
+	]
+}

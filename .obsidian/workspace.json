@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "file": "Obsidian/Pojects/Android/GeoGusser/GeoGusser.canvas",
                 "viewState": {
-                  "x": -454.5223503843041,
-                  "y": -629.021693150667,
-                  "zoom": -0.4254842867139599
+                  "x": 359.5,
+                  "y": 199.5,
+                  "zoom": -0.5
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "file": "Obsidian/Pojects/Android/GeoGusser/GeoGusser.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+                "file": "Obsidian/Pojects/Android/GeoGusser/GeoGusser.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas"
+                "file": "Obsidian/Pojects/Android/GeoGusser/GeoGusser.canvas"
               }
             }
           }
@@ -148,26 +148,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "github-sync:Sync with Remote": false
+      "publish:Publish changes...": false
     }
   },
   "active": "d3945415283fb608",
   "lastOpenFiles": [
+    "2024-04-24.md",
+    "Obsidian/Learnings/Java-Script/concepts/Map and Object.md",
+    "Untitled.canvas",
+    "Obsidian/Pojects/Android/GeoGusser/GeoGusser.canvas",
+    "Obsidian/Learnings/Frontend/JS Bundler/Parcel.md",
+    "Obsidian/Pojects/Android/GeoGusser/Untitled.md",
+    "Obsidian/Pojects/Android/GeoGusser",
+    "Untitled 2",
+    "Obsidian/Pojects/Android",
+    "Obsidian/Learnings/Farzi/Canvas/Gokwik Abande.canvas",
+    "Obsidian/Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
+    "Obsidian/Learnings/Farzi/Canvas/Gokwik - Abandoned checkout.md",
+    "Obsidian/Second Brain.md",
+    "Untitled.md",
+    "Obsidian/Untitled 1.canvas",
+    "Obsidian/Pojects/Extension/Timmely/Timely.canvas",
+    "Obsidian/Learnings/DSA/Hashmap/Hashmap.md",
+    "Obsidian/Learnings/Java-Script/concepts",
+    "Obsidian/Learnings/Java-Script",
+    "Untitled 1",
+    "Pasted image 20240324135038.png",
+    "Obsidian/Pojects/Extension/Timmely",
+    "Obsidian/Pojects/Extension",
+    "Obsidian/Pojects",
+    "Pasted image 20240324134257.png",
+    "Pasted image 20240324134210.png",
+    "Pasted image 20240324133858.png",
+    "Pasted image 20240324133812.png",
+    "Obsidian/create a link.md",
+    "Obsidian/Second Brain.canvas",
+    "Obsidian/Untitled 2.canvas",
+    "Obsidian/Untitled 3.canvas",
+    "Obsidian/Pasted image 20240321134505.png",
+    "Obsidian/Learnings/Frontend/JS Bundler/jsBundler.canvas",
+    "Pasted image 20240324134051.png",
+    "Pasted image 20240324134015.png",
+    "Obsidian/Learnings/Frontend/JS Bundler",
     "Pasted image 20240321134505.png",
-    "Learnings/Farzi/Canvas/PlixSkinQuiz.canvas",
-    "Learnings/Farzi/Canvas",
-    "Untitled",
-    "Learnings/Farzi",
-    "Untitled 1.canvas",
     "create a link.md",
     "Second Brain.md",
-    "Learnings/Frontend",
-    "Learnings/Frontend",
-    "Learnings",
-    "Second Brain.canvas",
-    "Welcome.md",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas"
+    "Welcome.md"
   ]
 }

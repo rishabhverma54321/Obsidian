@@ -1,0 +1,3 @@
+1. The only use of parcel is to better developer experience. It provides zero-config setup that makes it use quickly.
+2. It build size is greater than rollup but small than webpack.
+3. Parcel is used only for small and medium projects because of its zero configuration, limited tree-shaking ability, and lack of plugin support. Consequently, its build time generally worsens significantly in large projects

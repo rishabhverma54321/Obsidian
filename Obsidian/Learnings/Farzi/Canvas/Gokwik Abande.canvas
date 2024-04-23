@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"b2128d174a8afa82","type":"text","text":"Abandoned","x":-320,"y":-180,"width":250,"height":50},
+		{"id":"7597a42a96526a23","type":"text","text":"un-authenticated checkout","x":93,"y":-432,"width":267,"height":52},
+		{"id":"e6e3471945863c8a","type":"text","text":"authenticated checkout","x":122,"y":39,"width":250,"height":60},
+		{"id":"745bbfb94eef8784","type":"text","text":"It works in case of authenticated user","x":514,"y":-311,"width":250,"height":60},
+		{"id":"acb2d187445a6a9c","type":"text","text":"It works in case of un-authenticated user","x":510,"y":-592,"width":250,"height":60},
+		{"id":"e29e45cd86e1201d","type":"text","text":"It return null in case of unauthenticated user","x":540,"y":-100,"width":250,"height":60},
+		{"id":"7ade665586c8c4c1","type":"text","text":"It also return null for authenticated user but not with same account ","x":560,"y":300,"width":316,"height":99},
+		{"id":"ae5b2d298238bcf0","type":"text","text":"It works well in case of authenticated user but with same account ","x":588,"y":69,"width":260,"height":111},
+		{"id":"d9377a3db3f2775d","type":"text","text":"TRUE","x":863,"y":-591,"width":117,"height":50},
+		{"id":"b7cd1e022dd69c6d","type":"text","text":"TRUE","x":922,"y":-311,"width":117,"height":50},
+		{"id":"a31dd0f73658b223","type":"text","text":"TRUE","x":980,"y":-95,"width":117,"height":50},
+		{"id":"e5aff6687e8235e1","type":"text","text":"TRUE","x":1039,"y":99,"width":117,"height":50},
+		{"id":"502c4a57b02fc7bf","type":"text","text":"TRUE","x":1039,"y":325,"width":117,"height":50}
+	],
+	"edges":[
+		{"id":"4d66948ea4b39be5","fromNode":"b2128d174a8afa82","fromSide":"right","toNode":"7597a42a96526a23","toSide":"left"},
+		{"id":"b1f2a3201791c89f","fromNode":"b2128d174a8afa82","fromSide":"right","toNode":"e6e3471945863c8a","toSide":"left"},
+		{"id":"4ae3068489cce26c","fromNode":"7597a42a96526a23","fromSide":"right","toNode":"745bbfb94eef8784","toSide":"left"},
+		{"id":"9ff83e3502c46855","fromNode":"7597a42a96526a23","fromSide":"right","toNode":"acb2d187445a6a9c","toSide":"left"},
+		{"id":"2d504f653ce98c11","fromNode":"e6e3471945863c8a","fromSide":"right","toNode":"e29e45cd86e1201d","toSide":"left"},
+		{"id":"1f90679b7086c12f","fromNode":"e6e3471945863c8a","fromSide":"right","toNode":"7ade665586c8c4c1","toSide":"left"},
+		{"id":"d22c3430af9c51f3","fromNode":"e6e3471945863c8a","fromSide":"right","toNode":"ae5b2d298238bcf0","toSide":"left"},
+		{"id":"daa6a8e75419df57","fromNode":"acb2d187445a6a9c","fromSide":"right","toNode":"d9377a3db3f2775d","toSide":"left"},
+		{"id":"3ef419595f67b459","fromNode":"745bbfb94eef8784","fromSide":"right","toNode":"b7cd1e022dd69c6d","toSide":"left"},
+		{"id":"90ce863969158a5b","fromNode":"e29e45cd86e1201d","fromSide":"right","toNode":"a31dd0f73658b223","toSide":"left"},
+		{"id":"fdcfdaeec1334e32","fromNode":"ae5b2d298238bcf0","fromSide":"right","toNode":"e5aff6687e8235e1","toSide":"left"},
+		{"id":"782fbbda8961775b","fromNode":"7ade665586c8c4c1","fromSide":"right","toNode":"502c4a57b02fc7bf","toSide":"left"}
+	]
+}
